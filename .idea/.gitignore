@@ -4,6 +4,11 @@
 # Datasource local storage ignored files
 /../../../../../../../../:\Users\USER\Desktop\Netology\JavaProjects\bonus-calc\.idea/dataSources/
 /dataSources.local.xml
+
+.target
+/target/
+*target
+
 # Editor-based HTTP Client requests
 /httpRequests/
 Thumbs.db*
